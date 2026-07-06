@@ -5,7 +5,6 @@ Echoes of the Forgotten é um jogo 3D de exploração e puzzles desenvolvido na 
 ## Funcionalidades
 
 - Movimentação em terceira pessoa
-- Sistema de inventário
 - Sistema de diálogos
 - Sistema de save por checkpoints
 - Coleta de itens persistente
